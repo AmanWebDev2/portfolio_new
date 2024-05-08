@@ -1,17 +1,19 @@
 export const personalData = {
-  name: "ABU SAID",
-  profile: '/profile.png',
+  name: "AMAN",
+  profile: "",
   designation: "Software Developer",
-  description: "My name is ABU SAID. I am a professional and enthusiastic programmer in my daily life. I am a quick learner with a self-learning attitude. I love to learn and explore new technologies and am passionate about problem-solving. I love almost all the stacks of web application development and love to make the web more open to the world. My core skill is based on JavaScript and I love to do most of the things using JavaScript. I am available for any kind of job opportunity that suits my skills and interests.",
-  email: 'abusaid7388@gmail.com',
-  phone: '+8801608797655',
-  address: 'Middle Badda, Dhaka, Bangladesh - 1212 ',
-  github: 'https://github.com/said7388',
-  facebook: 'https://www.facebook.com/abusaid.riyaz/',
-  linkedIn: 'https://www.linkedin.com/in/abu-said-bd/',
-  twitter: 'https://twitter.com/said7388',
-  stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
-  leetcode: "https://leetcode.com/said3812/",
-  devUsername: "said7388",
-  resume: "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing"
-}
+  description:
+    "I'm AMAN, a dedicated and passionate programmer, driven by a constant desire to learn and explore new technologies. With a strong foundation in JavaScript, I thrive on solving complex problems and contributing to the ever-evolving world of web application development. As a quick learner with a self-motivated attitude, I embrace challenges and continuously strive to broaden my skills. I am enthusiastic about collaborating on innovative projects that push the boundaries of technology. I'm open to exciting job opportunities that align with my expertise and interests",
+  email: "webdevaman2@gmail.com",
+  phone: "+919458163496",
+  address: "Arya Nagar, Dehradun, Uttarakhand, India - 248001 ",
+  github: "https://github.com/AmanWebDev2/",
+  facebook: "https://www.facebook.com/",
+  linkedIn: "https://www.linkedin.com/in/aman-355347216/",
+  twitter: "https://twitter.com/Aman09523511",
+  stackOverflow: "https://stackoverflow.com/users/19051627/aman-kumar",
+  leetcode: "https://leetcode.com/u/webdevaman2/",
+  devUsername: "aman",
+  resume:
+    "https://drive.google.com/file/d/1dtQdKKCtDlhK-5TAKSeLarjhD4mJraql/view?usp=sharing",
+};
